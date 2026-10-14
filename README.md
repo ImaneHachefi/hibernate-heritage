@@ -10,7 +10,6 @@ Démonstration des trois stratégies d'héritage JPA avec Hibernate et une base 
 5. [Exécution de l'application](#5-exécution-de-lapplication)
 6. [Vérification SQL](#6-vérification-sql)
 7. [Comparaison des stratégies](#7-comparaison-des-stratégies)
-8. [Auteur](#8-auteur)
 
 ---
 
