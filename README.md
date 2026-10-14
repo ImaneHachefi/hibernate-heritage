@@ -152,7 +152,3 @@ SELECT ID, NOM, 'ELECTRONIQUE' FROM ELECTRONIQUE;
 | Redondance | Faible | Faible | Colonnes communes dupliquées |
 | Performance | Très bonne | Moyenne | Moyenne (polymorphisme) |
 | Génération d'id | IDENTITY possible | IDENTITY possible | `AUTO` obligatoire |
-
-## 8. Auteur
-
-**Imane**, étudiante ingénieur en Développement et Systèmes d'Information, EMSI Marrakech.
